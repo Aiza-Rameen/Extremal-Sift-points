@@ -7,3 +7,7 @@ Step 1: Try to execute the SIFT-points-detection-in-MSER.py file in terminal, be
 Step 2:	Then install RNNLIB library from https://github.com/szcom/rnnlib, this library will help you to train the extracted SIFT features appeared in conjoined area of binary image and image mask.
 
 Step 3: Pass (x,y) coordinates of selected SIFT features along with labels to RNN. 
+
+# Publications:
+
+Saad Bin Ahmed, Saeeda naz, Muhammad Imran Razzak, Rubiyah Yusof, "A novel Dataset for English-Arabic Scene Text Recognition (EASTR)-42k and Its Evaluation using Invariant Feature Extraction on Detected Extremal Regions" in IEEE Access (2019).
