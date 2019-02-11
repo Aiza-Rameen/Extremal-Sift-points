@@ -1,5 +1,5 @@
 # Extremal-Sift-points
-# This program intends to extract the sift features from extremal regions. 
+This program intends to extract the sift features from extremal regions. 
 # The stepwise manner mentioned as follow will guide you about the overall program execution.
 
 # Step 1: Try to execute the SIFT-points-detection-in-MSER.py file in terminal, before execution be sure to have opencv, matplotlib and all necessary packages that help in smooth execution of the program.
